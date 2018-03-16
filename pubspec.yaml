@@ -7,7 +7,7 @@ homepage: https://github.com/apptreesoftware/flutter_google_map_view
 dependencies:
   uri:
     git:
-     https://github.com/google/uri.dart.git
+     https://github.com/Tengio/uri.dart.git
   flutter:
     sdk: flutter
 
